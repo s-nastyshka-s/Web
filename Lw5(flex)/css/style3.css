@@ -67,11 +67,11 @@
     padding: 8px;
     margin: 0 10px 0 20px;
 }
+
 .content
 {
     width: 1000px;
     margin: 211px auto 20px auto;
-    
 }
 
 .box-right
@@ -125,6 +125,7 @@
 {
     padding-left: 5px;
 }
+
 .name
 {
     color: #333333;
@@ -169,6 +170,7 @@
     margin-top: 40px;
     margin-left: 4px;
 }
+
 .link
 {
     color: #15a98b;
@@ -226,6 +228,7 @@
 {
     margin-bottom: 14px;
 }
+
 .writers-list__list
 {
     margin-top: 6px;
@@ -285,7 +288,6 @@
 {
     display: flex;
     justify-content: space-between;
-
 }
 
 .films__card
@@ -525,7 +527,8 @@
     margin-top: 50px;   
 }
 
-.box-footer__text {
+.box-footer__text
+{
     font-size: 16px;
     line-height: 32px;
     color: #555555;
